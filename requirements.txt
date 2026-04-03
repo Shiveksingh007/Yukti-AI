@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+google-genai==0.3.0
+ipython
+httpx
+openpyxl
+lxml
