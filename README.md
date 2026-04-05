@@ -57,6 +57,14 @@
 ![Chart](assets/mermaid.png)
 
 ---
+###📱 Scan QR Code
+<p align="center"> <img src="assets/qr_code.png" width="200"> </p>
+
+🌐 Live App
+👉 https://yukti-ai-data-analyst.streamlit.app/
+
+---
+
 
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/shivek-singh-805454330"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"> </a>
