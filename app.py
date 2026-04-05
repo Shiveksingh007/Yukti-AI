@@ -221,8 +221,8 @@ st.markdown("""
 ### 👨‍💻 Shivek Singh | Yukti AI  
 
 🔗 **Connect with me:**  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-- [🐙 GitHub](https://github.com/your-github-username)  
+- [💼 LinkedIn](https://www.linkedin.com/in/shivek-singh-805454330)  
+- [🐙 GitHub](https://github.com/Shiveksingh007)  
 
 ---
 """)
