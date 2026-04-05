@@ -1,68 +1,63 @@
-# 🚀 Yukti AI – Auto EDA with AI  
+<!-- ================= BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Yukti%20AI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-> AI-powered Automated Exploratory Data Analysis (EDA) tool that transforms raw datasets into actionable insights, visualizations, and reports using natural language.
+<h1 align="center">🚀 Yukti AI – Auto EDA with AI</h1>
+
+<p align="center">
+  <b>Turn raw data into insights instantly using AI 🤖</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/AI-Gemini-black?logo=google">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
 
 ---
 
 ## 📌 Overview  
 
-**Yukti AI** is an intelligent data analysis platform that combines **Python-based analytics** with **AI (Gemini)** to automate the entire EDA process.  
+**Yukti AI** is an AI-powered Automated Exploratory Data Analysis (EDA) tool that transforms raw datasets into insights, summaries, and visualizations using natural language.
 
-It allows users to:
-- Upload datasets 📂  
-- Perform complete EDA 📊  
-- Generate AI-driven insights 🤖  
-- Ask questions in natural language 💬  
+💡 Just upload your dataset and start asking questions — no coding required.
 
 ---
 
 ## ✨ Features  
 
-### 📊 Core EDA Features
-- Dataset overview (shape, columns, preview)
-- Missing values detection
-- Data cleaning
-- Statistical summaries (numerical & categorical)
-- Correlation heatmap
-- Pair plots
-- Textual & numerical analysis  
+- 📊 Complete Automated EDA  
+- 🤖 AI-generated insights (Gemini)  
+- 💬 Chat with your data  
+- 📈 Smart visualizations  
+- ⚡ Natural language → Python execution  
+- 🧠 Data storytelling  
 
 ---
 
-### 🤖 AI-Powered Features
-- Auto EDA report generation  
-- Natural language query → Python execution  
-- Smart insights & storytelling  
-- Dynamic visualization generation  
+## 📸 Screenshots  
+
+### 🔹 Dashboard
+![Dashboard](assets/dashboard.png)
+
+### 🔹 EDA Output
+![EDA](assets/eda_output.png)
+
+### 🔹 AI Insights
+![AI](assets/ai_summary.png)
+
+### 🔹 Chat with Data
+![Chat](assets/chat_ui.png)
+
+> 📁 Replace images with your actual screenshots in `/assets/`
 
 ---
 
-### 💬 Chat with Data
-Ask questions like:
-- “What is the average value of column X?”
-- “Show distribution of sales”
-- “Find correlation between features”
+## 🎥 Demo (Optional)
 
----
+Add your demo video or GIF here:
 
-## 🧠 How It Works  
-
-1. Upload dataset  
-2. System performs basic EDA  
-3. Gemini AI generates insights  
-4. User interacts using natural language  
-5. AI converts query → Python → executes → returns result  
-
----
-
-## 🛠️ Tech Stack  
-
-- **Frontend:** Streamlit  
-- **Backend:** Python  
-- **Data Processing:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **AI Engine:** Gemini (`google-genai`)  
-
----
-
-## 📂 Project Structure  
+```md
+![Demo](assets/demo.gif)
