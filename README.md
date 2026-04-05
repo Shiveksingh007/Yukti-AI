@@ -61,9 +61,9 @@ Add your demo video or GIF here:
 md
 ![Demo](assets/demo.gif)
 
-
+---
 flowchart LR
-A[Upload Dataset] --> B[EDA Engine]
+A[mermaid] --> B[EDA Engine]
 B --> C[AI Analysis]
 C --> D[Insights + Visuals]
 D --> E[User Interaction]
