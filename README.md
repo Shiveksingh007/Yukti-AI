@@ -49,7 +49,7 @@
 ![AI](assets/ai_summary.png)
 
 ### 🔹 Chat with Data
-![Chat](assets/chat_ui.png)
+![Chat](assets/ai_chat.png)
 
 > 📁 Replace images with your actual screenshots in `/assets/`
 
