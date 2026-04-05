@@ -67,8 +67,7 @@
 
 
 🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/shivek-singh-805454330"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"> </a>
-  <a href="https://github.com/Shiveksingh007"> <img src="https://img.shields.io/badge/GitHub-black?logo=github"> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shivek-singh-805454330"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"> </a> <a href="https://github.com/Shiveksingh007"> <img src="https://img.shields.io/badge/GitHub-black?logo=github"> </a> </p>
 
   ---
 
