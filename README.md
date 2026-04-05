@@ -43,7 +43,7 @@
 ![Dashboard](assets/dashboard.png)
 
 ### 🔹 EDA Output
-![EDA](assets/eda_output.png)
+![EDA](assets/EDA.png)
 
 ### 🔹 AI Insights
 ![AI](assets/ai_summary.png)
