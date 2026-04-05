@@ -51,13 +51,19 @@
 ### 🔹 Chat with Data
 ![Chat](assets/ai_chat.png)
 
-> 📁 Replace images with your actual screenshots in `/assets/`
 
 ---
 
-## 🎥 Demo (Optional)
+## 🎥 Demo 
 
 Add your demo video or GIF here:
 
-```md
+md
 ![Demo](assets/demo.gif)
+
+
+flowchart LR
+A[Upload Dataset] --> B[EDA Engine]
+B --> C[AI Analysis]
+C --> D[Insights + Visuals]
+D --> E[User Interaction]
