@@ -62,8 +62,6 @@ md
 ![Demo](assets/demo.gif)
 
 ---
-flowchart LR
-A[mermaid] --> B[EDA Engine]
-B --> C[AI Analysis]
-C --> D[Insights + Visuals]
-D --> E[User Interaction]
+### flowchart LR
+![Chart](assets/mermaid.png)
+
